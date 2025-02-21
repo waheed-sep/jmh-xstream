@@ -1,0 +1,11 @@
+META-INF/CompilerHints
+com/example/jmh_generated/App_jmhType_B1.class
+com/example/App.class
+com/example/jmh_generated/App_benchmarkSerializationWithGSON_jmhTest.class
+META-INF/BenchmarkList
+com/example/AUser.class
+com/example/jmh_generated/App_jmhType_B3.class
+com/example/jmh_generated/App_jmhType.class
+com/example/Energy.class
+com/example/Friend.class
+com/example/jmh_generated/App_jmhType_B2.class
