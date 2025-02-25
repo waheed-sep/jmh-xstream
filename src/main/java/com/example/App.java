@@ -16,8 +16,8 @@ import java.util.concurrent.TimeUnit;
 
 public class App {
     @Benchmark
-    @Warmup(iterations = 2, time = 3)
-    @Measurement(iterations = 2, time = 5)
+    @Warmup(iterations = 3, time = 2)
+    @Measurement(iterations = 10, time = 2)
     // @BenchmarkMode(Mode.AverageTime)
     @BenchmarkMode({ Mode.All })
     @OutputTimeUnit(TimeUnit.SECONDS)
